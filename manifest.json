@@ -1,0 +1,23 @@
+{
+  "format_version": 1,
+  "header": {
+    "description": "bitzero.online mandatory resources",
+    "name": "bitzero-online",
+    "platform_locked": false,
+    "uuid": "a3c7e762-02e6-4dd7-9902-ab3c2bcfb2e9",
+    "version": [
+      0,
+      0,
+      1
+    ],
+    "min_engine_version": [1, 16, 0]
+  },
+  "modules": [
+    {
+      "description": "Font Module",
+      "type": "resources",
+      "uuid": "20e7ba0e-6cae-44fa-a114-3f2eeb9ea332",
+      "version": [1, 0, 0]
+    }
+  ]
+}
