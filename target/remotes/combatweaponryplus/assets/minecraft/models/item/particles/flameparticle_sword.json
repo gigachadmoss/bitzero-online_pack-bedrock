@@ -1,0 +1,13 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "minecraft:item/particles/flameparticle_sword"
+  },
+    "display": {
+        "head": {
+            "rotation": [ -60, 0, 0 ],
+            "translation": [ 0, -100, 0 ],
+            "scale": [ 20.0, 20.0, 0.0 ]
+        }
+    }
+}

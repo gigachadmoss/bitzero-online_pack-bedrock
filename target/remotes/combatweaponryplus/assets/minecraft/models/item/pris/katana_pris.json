@@ -1,0 +1,23 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "minecraft:item/pris/katana_pris"
+  },
+    "display": {
+	"firstperson_righthand": {
+            "rotation": [ 0, -90, 25 ],
+            "translation": [ 4, 3.2, -1.5 ],
+            "scale": [ 1.0, 1.0, 1.0 ]
+        },
+        "firstperson_lefthand": {
+            "rotation": [ 0, 90, -25 ],
+            "translation": [4, 3.2, -1.5],
+            "scale": [ 1.0, 1.0, 1.0 ]
+        },
+	"gui": {
+            "rotation": [ 0, 0, 0 ],
+            "translation": [ 0, 0.5, 0 ],
+            "scale": [ 1.08, 1.08, 1.0 ]
+        }
+    }
+}

@@ -1,0 +1,447 @@
+{
+  "resource_pack_name": "geyser_custom",
+  "texture_name": "atlas.items",
+  "texture_data": {
+    "gmdl_678e244": {
+      "textures": "textures/minecraft/item/bows/sbow_pulling_1"
+    },
+    "gmdl_599796c": {
+      "textures": "textures/minecraft/item/misc/wbone"
+    },
+    "gmdl_8a1fce8": {
+      "textures": "textures/minecraft/item/bows/hsbow_pulling_2"
+    },
+    "gmdl_03a54b9": {
+      "textures": "textures/minecraft/item/bows/rbow_pulling_1"
+    },
+    "gmdl_20e5d69": {
+      "textures": "textures/minecraft/item/bows/cbow_pulling_1"
+    },
+    "gmdl_2b832e3": {
+      "textures": "textures/minecraft/item/bows/lbow_pulling_2"
+    },
+    "gmdl_28b0bdc": {
+      "textures": "textures/minecraft/item/bows/redbow_pulling_2"
+    },
+    "gmdl_d138a33": {
+      "textures": "textures/minecraft/item/bows/lsbow_pulling_2"
+    },
+    "gmdl_0d86a5d": {
+      "textures": "textures/minecraft/item/bows/rcrossbow_firework"
+    },
+    "gmdl_cb96ff7": {
+      "textures": "textures/minecraft/item/bows/bcrossbow_arrow"
+    },
+    "gmdl_0ae16b4": {
+      "textures": "textures/minecraft/item/diamond/katana_diamondv"
+    },
+    "gmdl_ccac23a": {
+      "textures": "textures/minecraft/item/diamond/katana_diamondv"
+    },
+    "gmdl_2a08cba": {
+      "textures": "textures/minecraft/item/diamond/katana_diamondv"
+    },
+    "gmdl_e6f6f4d": {
+      "textures": "textures/minecraft/item/diamond/katana_diamondv"
+    },
+    "gmdl_5de148a": {
+      "textures": "textures/minecraft/item/diamond/ckatana_diamond"
+    },
+    "gmdl_10033a1": {
+      "textures": "textures/minecraft/item/diamond/longsword_diamond"
+    },
+    "gmdl_d7514ee": {
+      "textures": "textures/minecraft/item/diamond/scythe_diamond"
+    },
+    "gmdl_50eea5e": {
+      "textures": "textures/minecraft/item/diamond/katana_diamond"
+    },
+    "gmdl_2ce42a4": {
+      "textures": "textures/minecraft/item/diamond/spear_diamond"
+    },
+    "gmdl_de76262": {
+      "textures": "textures/minecraft/item/diamond/knife_diamond"
+    },
+    "gmdl_d6759a9": {
+      "textures": "textures/minecraft/item/diamond/saber_diamond"
+    },
+    "gmdl_e751745": {
+      "textures": "textures/minecraft/item/diamond/katana_diamondv"
+    },
+    "gmdl_a9ca026": {
+      "textures": "textures/minecraft/item/diamond/rapier_diamond"
+    },
+    "gmdl_a895119": {
+      "textures": "textures/minecraft/item/diamond/cleaver_diamond"
+    },
+    "gmdl_404ebf3": {
+      "textures": "textures/minecraft/item/diamond/scythe_diamondv"
+    },
+    "gmdl_05ce0f4": {
+      "textures": "textures/minecraft/item/diamond_sword"
+    },
+    "gmdl_e9dee4f": {
+      "textures": "textures/minecraft/item/em/axe_em"
+    },
+    "gmdl_22752dc": {
+      "textures": "textures/minecraft/item/elytra_icons/eelytra"
+    },
+    "gmdl_74ae1d1": {
+      "textures": "textures/minecraft/item/em/boots_em"
+    },
+    "gmdl_da855cf": {
+      "textures": "textures/minecraft/item/em/chestplate_em"
+    },
+    "gmdl_b406ae4": {
+      "textures": "textures/minecraft/item/em/helmet_em"
+    },
+    "gmdl_b0c2680": {
+      "textures": "textures/minecraft/item/em/hoe_em"
+    },
+    "gmdl_6dba309": {
+      "textures": "textures/minecraft/item/em/pickaxe_em"
+    },
+    "gmdl_16bb858": {
+      "textures": "textures/minecraft/item/em/leggings_em"
+    },
+    "gmdl_dea9801": {
+      "textures": "textures/minecraft/item/gold/longsword_gold"
+    },
+    "gmdl_d22008a": {
+      "textures": "textures/minecraft/item/em/shovel_em"
+    },
+    "gmdl_9ea016b": {
+      "textures": "textures/minecraft/item/gold/katana_gold"
+    },
+    "gmdl_9321be6": {
+      "textures": "textures/minecraft/item/gold/scythe_gold"
+    },
+    "gmdl_809f575": {
+      "textures": "textures/minecraft/item/gold/spear_gold"
+    },
+    "gmdl_52bd43d": {
+      "textures": "textures/minecraft/item/gold/rapier_gold"
+    },
+    "gmdl_24c9168": {
+      "textures": "textures/minecraft/item/gold/knife_gold"
+    },
+    "gmdl_9601c92": {
+      "textures": "textures/minecraft/item/em/longsword_em"
+    },
+    "gmdl_2512840": {
+      "textures": "textures/minecraft/item/gold/saber_gold"
+    },
+    "gmdl_d2fc743": {
+      "textures": "textures/minecraft/item/em/katana_em"
+    },
+    "gmdl_1ecc505": {
+      "textures": "textures/minecraft/item/em/scythe_em"
+    },
+    "gmdl_3e3b75e": {
+      "textures": "textures/minecraft/item/em/spear_em"
+    },
+    "gmdl_6f69953": {
+      "textures": "textures/minecraft/item/em/knife_em"
+    },
+    "gmdl_b1cb973": {
+      "textures": "textures/minecraft/item/em/rapier_em"
+    },
+    "gmdl_529260f": {
+      "textures": "textures/minecraft/item/gold/cleaver_gold"
+    },
+    "gmdl_acdbcc2": {
+      "textures": "textures/minecraft/item/em/sword_em"
+    },
+    "gmdl_d0f86fe": {
+      "textures": "textures/minecraft/item/em/saber_em"
+    },
+    "gmdl_312cd11": {
+      "textures": "textures/minecraft/item/em/cleaver_em"
+    },
+    "gmdl_66cbadb": {
+      "textures": "textures/minecraft/item/wither/boots_wither"
+    },
+    "gmdl_20c7971": {
+      "textures": "textures/minecraft/item/wither/chestplate_wither"
+    },
+    "gmdl_e3bd88c": {
+      "textures": "textures/minecraft/item/wither/helmet_wither"
+    },
+    "gmdl_b337269": {
+      "textures": "textures/minecraft/item/misc/redc"
+    },
+    "gmdl_a5b6738": {
+      "textures": "textures/minecraft/item/golden_sword"
+    },
+    "gmdl_7fe4bd1": {
+      "textures": "textures/minecraft/item/wither/leggings_wither"
+    },
+    "gmdl_f363834": {
+      "textures": "textures/minecraft/item/misc/fish"
+    },
+    "gmdl_46f1b14": {
+      "textures": "textures/minecraft/item/iron/katana_iron"
+    },
+    "gmdl_9981abc": {
+      "textures": "textures/minecraft/item/iron/longsword_iron"
+    },
+    "gmdl_f4dd401": {
+      "textures": "textures/minecraft/item/iron/scythe_iron"
+    },
+    "gmdl_c4667c3": {
+      "textures": "textures/minecraft/item/iron/spear_iron"
+    },
+    "gmdl_8d87959": {
+      "textures": "textures/minecraft/item/iron/rapier_iron"
+    },
+    "gmdl_f7966f9": {
+      "textures": "textures/minecraft/item/misc/chorus"
+    },
+    "gmdl_f4c2395": {
+      "textures": "textures/minecraft/item/iron/knife_iron"
+    },
+    "gmdl_77f6673": {
+      "textures": "textures/minecraft/item/iron/saber_iron"
+    },
+    "gmdl_3029ccc": {
+      "textures": "textures/minecraft/item/iron/cleaver_iron"
+    },
+    "gmdl_0a7df40": {
+      "textures": "textures/minecraft/item/bone/katana_bone"
+    },
+    "gmdl_263cb09": {
+      "textures": "textures/minecraft/item/bone/scythe_bone"
+    },
+    "gmdl_1a34ce6": {
+      "textures": "textures/minecraft/item/bone/longsword_bone"
+    },
+    "gmdl_067e487": {
+      "textures": "textures/minecraft/item/bone/spear_bone"
+    },
+    "gmdl_9ee2402": {
+      "textures": "textures/minecraft/item/pris/axe_pris"
+    },
+    "gmdl_38c4912": {
+      "textures": "textures/minecraft/item/iron_sword"
+    },
+    "gmdl_10e16a6": {
+      "textures": "textures/minecraft/item/bone/knife_bone"
+    },
+    "gmdl_b794f48": {
+      "textures": "textures/minecraft/item/bone/rapier_bone"
+    },
+    "gmdl_1fb40af": {
+      "textures": "textures/minecraft/item/pris/boots_pris"
+    },
+    "gmdl_0ecef61": {
+      "textures": "textures/minecraft/item/pris/chestplate_pris"
+    },
+    "gmdl_ff02b18": {
+      "textures": "textures/minecraft/item/pris/helmet_pris"
+    },
+    "gmdl_d4af298": {
+      "textures": "textures/minecraft/item/pris/hoe_pris"
+    },
+    "gmdl_0249023": {
+      "textures": "textures/minecraft/item/misc/godsword"
+    },
+    "gmdl_e4997ce": {
+      "textures": "textures/minecraft/item/misc/gottem"
+    },
+    "gmdl_9df42c5": {
+      "textures": "textures/minecraft/item/pris/ingot_pris"
+    },
+    "gmdl_55758eb": {
+      "textures": "textures/minecraft/item/misc/pick_obs"
+    },
+    "gmdl_78dbfbb": {
+      "textures": "textures/minecraft/item/pris/leggings_pris"
+    },
+    "gmdl_ccd1fa8": {
+      "textures": "textures/minecraft/item/pris/shovel_pris"
+    },
+    "gmdl_cd8f825": {
+      "textures": "textures/minecraft/item/pris/pickaxe_pris"
+    },
+    "gmdl_95cbbe9": {
+      "textures": "textures/minecraft/item/fire/flamespear"
+    },
+    "gmdl_972d763": {
+      "textures": "textures/minecraft/item/fire/flamesword"
+    },
+    "gmdl_b6302d1": {
+      "textures": "textures/minecraft/item/fire/flamecleaver"
+    },
+    "gmdl_a16859d": {
+      "textures": "textures/minecraft/item/fire/flameaxe"
+    },
+    "gmdl_c3a03be": {
+      "textures": "textures/minecraft/item/netherite/longsword_netherite"
+    },
+    "gmdl_255991f": {
+      "textures": "textures/minecraft/item/netherite/katana_netherite"
+    },
+    "gmdl_1547abd": {
+      "textures": "textures/minecraft/item/netherite/scythe_netherite"
+    },
+    "gmdl_447c7d3": {
+      "textures": "textures/minecraft/item/netherite/knife_netherite"
+    },
+    "gmdl_496cf64": {
+      "textures": "textures/minecraft/item/netherite/rapier_netherite"
+    },
+    "gmdl_3debc8c": {
+      "textures": "textures/minecraft/item/netherite/spear_netherite"
+    },
+    "gmdl_d357884": {
+      "textures": "textures/minecraft/item/netherite/cleaver_netherite"
+    },
+    "gmdl_00f9086": {
+      "textures": "textures/minecraft/item/netherite/saber_netherite"
+    },
+    "gmdl_900d45e": {
+      "textures": "textures/minecraft/item/pris/longsword_pris"
+    },
+    "gmdl_125bc16": {
+      "textures": "textures/minecraft/item/pris/katana_pris"
+    },
+    "gmdl_bef01c4": {
+      "textures": "textures/minecraft/item/pris/scythe_pris"
+    },
+    "gmdl_65eef32": {
+      "textures": "textures/minecraft/item/pris/spear_pris"
+    },
+    "gmdl_0becb71": {
+      "textures": "textures/minecraft/item/pris/rapier_pris"
+    },
+    "gmdl_24299db": {
+      "textures": "textures/minecraft/item/pris/cleaver_pris"
+    },
+    "gmdl_6729af0": {
+      "textures": "textures/minecraft/item/pris/saber_pris"
+    },
+    "gmdl_226829c": {
+      "textures": "textures/minecraft/item/pris/knife_pris"
+    },
+    "gmdl_888eeb4": {
+      "textures": "textures/minecraft/item/pris/sword_pris"
+    },
+    "gmdl_3285d9d": {
+      "textures": "textures/minecraft/item/misc/pvessel"
+    },
+    "gmdl_71daffc": {
+      "textures": "textures/minecraft/item/misc/pinvessel"
+    },
+    "gmdl_533ec49": {
+      "textures": "textures/minecraft/item/misc/awakvessel"
+    },
+    "gmdl_a75ec15": {
+      "textures": "textures/minecraft/item/misc/pcursvessel"
+    },
+    "gmdl_4186411": {
+      "textures": "textures/minecraft/item/misc/awakvessell"
+    },
+    "gmdl_bf0cad3": {
+      "textures": "textures/minecraft/item/misc/bruh"
+    },
+    "gmdl_90ff487": {
+      "textures": "textures/minecraft/item/misc/bruhh"
+    },
+    "gmdl_17e41c3": {
+      "textures": "textures/minecraft/item/misc/vessel"
+    },
+    "gmdl_b739d3d": {
+      "textures": "textures/minecraft/item/misc/invessel"
+    },
+    "gmdl_42afa3f": {
+      "textures": "textures/minecraft/item/misc/cursvessel"
+    },
+    "gmdl_7a0a2f1": {
+      "textures": "textures/minecraft/item/misc/awakvessell"
+    },
+    "gmdl_b349f76": {
+      "textures": "textures/minecraft/item/misc/bruhh"
+    },
+    "gmdl_ef2a227": {
+      "textures": "textures/minecraft/item/netherite_sword"
+    },
+    "gmdl_fdc721e": {
+      "textures": "textures/minecraft/item/particles/cut"
+    },
+    "gmdl_91d0b3e": {
+      "textures": "textures/minecraft/item/particles/flameparticle_spear"
+    },
+    "gmdl_fc974b7": {
+      "textures": "textures/minecraft/item/pris/ingot_pris"
+    },
+    "gmdl_b90bf5f": {
+      "textures": "textures/minecraft/item/particles/flameparticle_sword"
+    },
+    "gmdl_dcc1668": {
+      "textures": "textures/minecraft/item/particles/flameparticle_cleaver"
+    },
+    "gmdl_588e7ab": {
+      "textures": "textures/minecraft/item/particles/test"
+    },
+    "gmdl_0e54a06": {
+      "textures": "textures/minecraft/item/particles/flameparticle_axe"
+    },
+    "gmdl_fe79eb8": {
+      "textures": "textures/minecraft/item/stone/katana_stone"
+    },
+    "gmdl_4ba634d": {
+      "textures": "textures/minecraft/item/stone/longsword_stone"
+    },
+    "gmdl_095b2dd": {
+      "textures": "textures/minecraft/item/stone/spear_stone"
+    },
+    "gmdl_b5bbe9d": {
+      "textures": "textures/minecraft/item/stone/scythe_stone"
+    },
+    "gmdl_7b7cd58": {
+      "textures": "textures/minecraft/item/stone/rapier_stone"
+    },
+    "gmdl_8fe9a54": {
+      "textures": "textures/minecraft/item/stone/knife_stone"
+    },
+    "gmdl_6f52c2a": {
+      "textures": "textures/minecraft/item/stone/saber_stone"
+    },
+    "gmdl_8a3dea5": {
+      "textures": "textures/minecraft/item/stone/cleaver_stone"
+    },
+    "gmdl_308b39c": {
+      "textures": "textures/minecraft/item/stone_sword"
+    },
+    "gmdl_979ea35": {
+      "textures": "textures/minecraft/item/misc/frostcharm"
+    },
+    "gmdl_d9768a5": {
+      "textures": "textures/minecraft/item/wood/longsword_wood"
+    },
+    "gmdl_faf7724": {
+      "textures": "textures/minecraft/item/wood/katana_wood"
+    },
+    "gmdl_9e0d716": {
+      "textures": "textures/minecraft/item/wood/spear_wood"
+    },
+    "gmdl_7802782": {
+      "textures": "textures/minecraft/item/wood/scythe_wood"
+    },
+    "gmdl_4606d78": {
+      "textures": "textures/minecraft/item/wood/rapier_wood"
+    },
+    "gmdl_415da50": {
+      "textures": "textures/minecraft/item/wood/saber_wood"
+    },
+    "gmdl_c642f30": {
+      "textures": "textures/minecraft/item/wood/knife_wood"
+    },
+    "gmdl_604c53d": {
+      "textures": "textures/minecraft/item/wood/cleaver_wood"
+    },
+    "gmdl_71a93db": {
+      "textures": "textures/minecraft/item/wooden_sword"
+    }
+  }
+}

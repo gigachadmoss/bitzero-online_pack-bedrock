@@ -1,0 +1,13 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "minecraft:item/particles/cut"
+  },
+    "display": {
+        "head": {
+            "rotation": [ 0, 0, 0 ],
+            "translation": [ 0, 100, 0 ],
+            "scale": [ 200.0, 200.0, 0.0 ]
+        }
+    }
+}

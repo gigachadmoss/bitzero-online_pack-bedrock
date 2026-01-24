@@ -1,0 +1,14 @@
+{
+	"parent": "minecraft:item/handheld",
+	"textures": {
+		"layer0": "item/potato"
+	},
+	"overrides": [
+		{"predicate": {"custom_model_data":37}, "model": "item/particles/cut"},
+		{"predicate": {"custom_model_data":50}, "model": "item/particles/flameparticle_sword"},
+		{"predicate": {"custom_model_data":51}, "model": "item/particles/flameparticle_spear"},
+		{"predicate": {"custom_model_data":52}, "model": "item/particles/flameparticle_axe"},
+		{"predicate": {"custom_model_data":53}, "model": "item/particles/flameparticle_cleaver"},
+		{"predicate": {"custom_model_data":9873221}, "model": "item/particles/test"}
+	]
+}
